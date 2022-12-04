@@ -1,4 +1,4 @@
-# Dialogue-System-Interfaces
+# Dialogue-System-Interface
 
 ## Project setup
 ```
